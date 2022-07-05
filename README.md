@@ -39,3 +39,6 @@
 ## day04
 - [x] risc-v isa
 - [x] os ch1
+## day05
+- [x] rustling43/84
+今天主要再刷rustling
