@@ -42,3 +42,7 @@
 ## day05
 - [x] rustling43/84
 今天主要再刷rustling
+## day06
+- [x] 泛型
+- [x] trait
+- [x] 生命周期
