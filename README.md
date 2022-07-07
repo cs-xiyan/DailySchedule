@@ -46,3 +46,6 @@
 - [x] 泛型
 - [x] trait
 - [x] 生命周期
+## day07
+- [x] os
+- [x] riscv
