@@ -49,3 +49,6 @@
 ## day07
 - [x] os
 - [x] riscv
+## day08
+- [x] os
+- [x] riscv
