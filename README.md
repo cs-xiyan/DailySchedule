@@ -52,3 +52,7 @@
 ## day08
 - [x] os
 - [x] riscv
+## day09
+- [x] os
+- [x] riscv
+- [x] rust测试
