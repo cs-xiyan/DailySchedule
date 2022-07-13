@@ -56,3 +56,7 @@
 - [x] os
 - [x] riscv
 - [x] rust测试
+## day10
+- [x] I/O项目
+- [x] 迭代器和闭包
+- [x] rustling 56/84
